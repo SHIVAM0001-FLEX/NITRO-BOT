@@ -1,1 +1,3 @@
 # NITRO-BOT
+
+IN THIS CODE U CAN MAKE UR OWN DM SPAM BOT WHICH WILL DM IN EVERYONES DM ![images (3)](https://user-images.githubusercontent.com/80771521/111891740-01919400-8a1b-11eb-9b27-8758adfb73c5.jpeg)
